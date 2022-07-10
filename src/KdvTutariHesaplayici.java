@@ -4,7 +4,6 @@ import java.util.Scanner;
                 double fiyat, kdvliTutar, kdvOrani;
                 boolean kdvDurumu;
                 Scanner veri = new Scanner(System.in);
-
                 System.out.println("Ürün fiyatını giriniz: ");
                 fiyat = veri.nextDouble();
 
