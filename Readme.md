@@ -1,0 +1,1 @@
+# Mantık operatörleri kullanılarak KDV hesaplaması yapan bir kod yazılmıştır.
